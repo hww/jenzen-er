@@ -24,6 +24,10 @@ The main parts designed with top-down design technique. There is the skeleton fi
 
 Those skeletons have main definitions of the project and the control sketches. Just open file and hit ```control-e```.
 
+## STEP Files
+
+There are [Step files](nx/step)
+
 ## Renders
 
 Few images for better understanding the construction.
