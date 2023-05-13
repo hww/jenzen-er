@@ -10,6 +10,6 @@ The files for my [Jenzen ER](http://www.troelsgravesen.dk/Jenzen-SEAS-ER.htm) sp
 
 Few images for better understanding the construction.
 
-<img src="nx/images/jz_01.jpg" width="600px">
-<img src="nx/images/jz_01.jpg" width="600px">
-<img src="nx/images/jz_01.jpg" width="600px">
+<img src="nx/images/jz_01.jpg" width="450px">
+<img src="nx/images/jz_02.jpg" width="450px">
+<img src="nx/images/jz_03.jpg" width="450px">
