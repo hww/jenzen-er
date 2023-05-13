@@ -6,6 +6,24 @@ The files for my [Jenzen ER](http://www.troelsgravesen.dk/Jenzen-SEAS-ER.htm) sp
 
 - [Drawings (pdf)](https://github.com/hww/jenzen-er/blob/main/nx/pdf/user_jz_dwg.pdf)
 
+## Sources
+
+The 3D model files madden with Siemens NX 2212 and located in the 'nx' folder. There are five main files in the folder:
+
+1. jz.prt - The assembly
+2. jz-dwg.prt - Is the drawings
+3. bass.prt - The bass driver cabient
+4. mid.prt - The mid and hi drivers cabient
+5. stand.prt - The basement 
+
+The main parts designed with top-down design technique. There is the skeleton files:
+
+1. bass_skel.prt 
+2. mid_skel.prt
+3. stand_skel.prt
+
+Those skeletons have main definitions of the project and the control sketches. Just open file and hit ```control-e```.
+
 ## Renders
 
 Few images for better understanding the construction.
