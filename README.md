@@ -6,5 +6,12 @@ The files for my [Jenzen ER](http://www.troelsgravesen.dk/Jenzen-SEAS-ER.htm) sp
 
 - [Drawing (pdf)](https://github.com/hww/jenzen-er/blob/main/nx/pdf/user_jz_dwg.pdf)
 
+## Renders
 
-[nx/images/jz_01.jpg]
+Few images for better understanding the construction.
+
+![Render 01](nx/images/jz_01.jpg)
+
+![Render 02](nx/images/jz_02.jpg)
+
+![Render 03](nx/images/jz_03.jpg)
