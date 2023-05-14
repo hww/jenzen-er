@@ -24,10 +24,20 @@ The main parts designed with top-down design technique. There is the skeleton fi
 
 Those skeletons have main definitions of the project and the control sketches. Just open file and hit ```control-e```.
 
+## STEP Files
+
+There are [Step files](nx/step)
+
+## Materials
+
+The design adopted to the playwood 19mm and 23mm, with few parts with MDF 19mm, 20mm, 22mm 
 ## Renders
 
 Few images for better understanding the construction.
 
 <img src="nx/images/jz_01.jpg" width="450px">
 <img src="nx/images/jz_02.jpg" width="450px">
+
+The left right walls inside the mid driver cabinet has additional 20mm MDF sheets (see image below).
+
 <img src="nx/images/jz_03.jpg" width="450px">
