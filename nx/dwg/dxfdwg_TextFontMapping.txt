@@ -1,0 +1,7 @@
+﻿export : Arial =Arial
+export : Calibri =Calibri
+export : Cambria =Cambria
+export : Candara =Candara
+export : TGL 31034-1 =TGL 31034-1
+export : blockfont =simplex.shx
+export : DEFAULT =simplex.shx
