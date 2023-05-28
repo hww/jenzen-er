@@ -42,9 +42,9 @@ There are [Step files](nx/step)
 
 Few images for better understanding the construction.
 
-<img src="nx/images/jz_01.jpg" width="450px">
-<img src="nx/images/jz_02.jpg" width="450px">
+<img src="nxpw/images/jz_01.jpg" width="450px">
+<img src="nxpw/images/jz_02.jpg" width="450px">
 
 The left right walls inside the mid driver cabinet has additional 20mm MDF sheets (see image below).
 
-<img src="nx/images/jz_03.jpg" width="450px">
+<img src="nxpw/images/jz_03.jpg" width="450px">
