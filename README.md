@@ -8,7 +8,12 @@ The files for my [Jenzen ER](http://www.troelsgravesen.dk/Jenzen-SEAS-ER.htm) sp
 
 ## Sources
 
-The 3D model files madden with Siemens NX 2212 and located in the 'nx' folder. There are five main files in the folder:
+There are two different versions:
+
+- 'nxmdf' - MDF only
+- 'nxpw' - Playwood and MDF
+
+The 3D model files madden with Siemens NX 2212 and located in the 'nxmdf' or 'nxpw' folder. There are five main files in the folder:
 
 1. ```jz.prt``` -- The assembly
 2. ```jz-dwg.prt``` -- Is the drawings
@@ -30,7 +35,9 @@ There are [Step files](nx/step)
 
 ## Materials
 
-The design adopted to the playwood 19mm and 23mm, with few parts with MDF 19mm, 20mm, 22mm 
+- *Variant NXMDF* - The design adopted to the MDF 19mm  
+- *Variant NXPW* - The design adopted to the playwood 19mm and 23mm, and MDF 19mm, 22mm 
+
 ## Renders
 
 Few images for better understanding the construction.
